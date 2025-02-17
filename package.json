@@ -1,6 +1,6 @@
 {
   "name": "llm-markdown-codebase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a huge single markdown file of your entire codebase",
   "main": "index.js",
   "type": "module",
