@@ -1,12 +1,22 @@
 {
-  "name": "llm-codegen",
+  "name": "llm-markdown-codebase",
   "version": "1.0.0",
   "description": "Generate a huge single markdown file of your entire codebase",
   "main": "index.js",
+  "type": "module",
+  "bin": {
+    "llm-markdown-codebase": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "markdown",
+    "documentation",
+    "codebase",
+    "generator",
+    "llm"
+  ],
   "author": "",
   "license": "MIT"
 }
