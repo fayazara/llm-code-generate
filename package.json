@@ -1,0 +1,12 @@
+{
+  "name": "llm-codegen",
+  "version": "1.0.0",
+  "description": "Generate a huge single markdown file of your entire codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
